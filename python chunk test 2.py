@@ -158,7 +158,7 @@ n=0
 
 cube = Cube()
 
-#TODO: you can experiment with the vertices to get the result of deleting blocks at a certain coordinate, right now it's a test.
+#TODO: you can experiment with the vertices to get the result of adding blocks at a certain coordinate, right now it's a test.
 def add():
     global mesh
     mesh.vertices.extend(cube.vertices)
